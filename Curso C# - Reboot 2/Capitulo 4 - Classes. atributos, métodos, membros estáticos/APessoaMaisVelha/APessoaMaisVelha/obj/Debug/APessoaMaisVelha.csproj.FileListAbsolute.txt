@@ -1,0 +1,6 @@
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\APessoaMaisVelha\APessoaMaisVelha\bin\Debug\APessoaMaisVelha.exe.config
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\APessoaMaisVelha\APessoaMaisVelha\bin\Debug\APessoaMaisVelha.exe
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\APessoaMaisVelha\APessoaMaisVelha\bin\Debug\APessoaMaisVelha.pdb
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\APessoaMaisVelha\APessoaMaisVelha\obj\Debug\APessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\APessoaMaisVelha\APessoaMaisVelha\obj\Debug\APessoaMaisVelha.exe
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\APessoaMaisVelha\APessoaMaisVelha\obj\Debug\APessoaMaisVelha.pdb
